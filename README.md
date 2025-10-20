@@ -1,0 +1,9 @@
+isi file .env
+PGUSER=developer
+PGHOST=localhost
+PGPASSWORD=admin123
+PGDATABASE=berita
+PGPORT=5432
+
+ACCESS_TOKEN_SECRET=snaujnsubciuyabaubc83487381bdabwddby7q7ct3r673wt9r6
+REFRESH_TOKEN_SECRET=smnasnajnsubnsyabdyabdabdaydbvyvyavdyvadvayavdadvb
